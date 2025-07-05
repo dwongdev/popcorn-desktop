@@ -72,7 +72,6 @@ Settings.trackers = {
   blacklisted: ['demonii'],
   forced: [
     'udp://tracker.opentrackr.org:1337',
-    'udp://tracker.tiny-vps.com:6969',
     'udp://tracker.openbittorrent.com:1337',
     'udp://p4p.arenabg.com:1337',
     'udp://exodus.desync.com:6969',
@@ -81,8 +80,10 @@ Settings.trackers = {
     'udp://open.stealth.si:80',
     'udp://tracker.dler.org:6969',
     'udp://explodie.org:6969',
-    'udp://tracker.therarbg.com:6969',
-    'udp://opentracker.i2p.rocks:6969',
+    'udp://tracker.therarbg.to:6969',
+    'udp://tracker.dump.cl:6969',
+    'udp://tracker.bittor.pw:1337',
+    'udp://tr4ck3r.duckdns.org:6969',
     'wss://tracker.openwebtorrent.com'
   ]
 };
